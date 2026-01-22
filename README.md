@@ -1,8 +1,8 @@
-# ✨ Two-Bit - Full Stack Realtime Chat App ✨
+# ✨ Chirp - Full Stack Realtime Chat App ✨
 
 <div align="center">
 
-![Two-Bit Chat App](https://via.placeholder.com/800x400/1e293b/60a5fa?text=Two-Bit+Chat+App)
+![Chirp Chat App](https://via.placeholder.com/800x400/1e293b/60a5fa?text=Chirp+Chat+App)
 
 **🚀 Live Demo:** [https://twobit.onrender.com](https://twobit.onrender.com)
 
