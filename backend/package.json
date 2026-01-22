@@ -10,7 +10,7 @@
   "author": "",
   "type": "module",
   "license": "ISC",
-  "description": "",
+  "description": "Backend API server for Chirp chat application",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cloudinary": "^2.7.0",
