@@ -1,12 +1,6 @@
 # ✨ Chirp - Full Stack Realtime Chat App ✨
 
-<div align="center">
-
-![Chirp Chat App](https://via.placeholder.com/800x400/1e293b/60a5fa?text=Chirp+Chat+App)
-
 **🚀 Live Demo:** [https://twobit.onrender.com](https://twobit.onrender.com)
-
-</div>
 
 ## Highlights
 
